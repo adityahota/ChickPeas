@@ -21,6 +21,7 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="SMX-go-6Nw">
                                 <rect key="frame" x="149" y="391" width="76" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.73963552044212166" green="0.86332326203073229" blue="1" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <state key="normal" title="Chick Peas"/>
                                 <connections>
                                     <action selector="showMessageWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="XGX-4w-gyV"/>
@@ -35,4 +36,5 @@
             </objects>
         </scene>
     </scenes>
+    <color key="tintColor" red="1" green="0.067946355185795615" blue="0.071171425787242226" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
 </document>
